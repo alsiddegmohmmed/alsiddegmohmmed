@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">👋 Hello World! I'm a passionate Frontend Developer with a love for crafting engaging and user-friendly web experiences. My journey in the world of code involves the perfect blend of HTML, CSS, and JavaScript. 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alsiddegmohmmed" alt="alsiddegmohmmed" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/siddeg___" target="blank"><img src="https://img.shields.io/twitter/follow/siddeg___?logo=twitter&style=for-the-badge" alt="siddeg___" /></a> </p>
 
