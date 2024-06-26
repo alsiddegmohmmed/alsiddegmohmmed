@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/siddeg___" target="blank"><img src="https://img.shields.io/twitter/follow/siddeg___?logo=twitter&style=for-the-badge" alt="siddeg___" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs, Angular**
+- 🌱 I’m currently learning **Reactjs, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://alsiddegmohmmed.github.io/](https://alsiddegmohmmed.github.io/)
 
