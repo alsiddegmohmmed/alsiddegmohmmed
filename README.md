@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omer</h1>
+<h1 align="center">Hi 👋, I'm siddeg</h1>
 <h3 align="center">👋 Hello World! I'm a passionate Frontend Developer with a love for crafting engaging and user-friendly web experiences. My journey in the world of code involves the perfect blend of HTML, CSS, and JavaScript. 🚀</h3>
 
 
