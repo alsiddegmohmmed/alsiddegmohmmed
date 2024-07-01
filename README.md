@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm siddeg</h1>
-<h3 align="center">👋 Hello World! I'm a passionate Frontend Developer with a love for crafting engaging and user-friendly web experiences. My journey in the world of code involves the perfect blend of HTML, CSS, and JavaScript. 🚀</h3>
+<h3 align="center">👋 I have a strong background in designing and building responsive web applications for diverse clients and projects. Leveraging my expertise in CSS and advanced JS Frameworks like Reactjs, I ensure the creation of visually appealing and user-friendly interfaces. 🚀</h3>
 
 
 
