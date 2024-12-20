@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm siddeg</h1>
 <h3 align="center">👋 I have a strong background in designing and building responsive web applications for diverse clients and projects. Leveraging my expertise in CSS and advanced JS Frameworks like Reactjs, I ensure the creation of visually appealing and user-friendly interfaces. 🚀</h3>
 
-<a href="https://committers.top/qatar_public/alsiddegmohmmed" target="_blank" rel="noreferrer"> 
-  <img src="https://user-badge.committers.top/qatar_public/alsiddegmohmmed.svg" alt="committers.top badge" />
+<a href="https://committers.top/sudan_public/alsiddegmohmmed" target="_blank" rel="noreferrer"> 
+  <img src="https://user-badge.committers.top/sudan_public/alsiddegmohmmed.svg" alt="committers.top badge" />
 </a>
 
 
 <p align="left"> <a href="https://twitter.com/siddeg___" target="blank"><img src="https://img.shields.io/twitter/follow/siddeg___?logo=twitter&style=for-the-badge" alt="siddeg___" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs, Nodejs**
+- 🌱 I’m currently using **Reactjs, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://alsiddegmohmmed.github.io/](https://alsiddegmohmmed.github.io/)
 
