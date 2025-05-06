@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm siddeg</h1>
-<h3 align="center">👋 I have a strong background in designing and building responsive web applications for diverse clients and projects. Leveraging my expertise in CSS and advanced JS Frameworks like Reactjs, I ensure the creation of visually appealing and user-friendly interfaces. 🚀</h3>
+
 
 <a href="https://committers.top/sudan_public/alsiddegmohmmed" target="_blank" rel="noreferrer"> 
   <img src="https://user-badge.committers.top/sudan_public/alsiddegmohmmed.svg" alt="committers.top badge" />
