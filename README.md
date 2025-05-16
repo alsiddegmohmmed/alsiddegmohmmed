@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently using **Reactjs, Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://alsiddegmohmmed.github.io/](https://alsiddegmohmmed.github.io/)
-
 - 📝 I regularly write articles on [https://alsiddegomersblog.hashnode.dev/](https://alsiddegomersblog.hashnode.dev/)
 
 - 💬 Ask me about **React JavaScript css**
