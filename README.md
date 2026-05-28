@@ -8,12 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/siddeg___" target="blank"><img src="https://img.shields.io/twitter/follow/siddeg___?logo=twitter&style=for-the-badge" alt="siddeg___" /></a> </p>
 
-- 🌱 I’m currently using **Reactjs, Nodejs**
-
-- 📝 I regularly write articles on [https://alsiddegomersblog.hashnode.dev/](https://alsiddegomersblog.hashnode.dev/)
-
-- 💬 Ask me about **React JavaScript css**
-
 - 📫 How to reach me **Siddegx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
